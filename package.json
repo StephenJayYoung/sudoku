@@ -1,0 +1,23 @@
+{
+  "name": "Sudoku",
+  "version": "1.0.0",
+  "description": "A sudoku solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StephenJayYoung/sudoku.git"
+  },
+  "author": "Steve and Austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenJayYoung/sudoku/issues"
+  },
+  "homepage": "https://github.com/StephenJayYoung/sudoku",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
