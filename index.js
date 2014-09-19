@@ -18,6 +18,29 @@ var Puzzle = function(string) {
 };
 
 
+
+/**
+ * This is the row generator method
+ * @method  rowGenerator
+ *
+ * @param {String} puzzleString the string of numbers and spaces representing the sudoku puzzle
+ * @return {object} an object of 9 arrays numbered 0-8
+ */
+
+Puzzle.prototype.generateRows = function(puzzleString) {
+
+
+};
+
+
+
+
+
+
+
+
+
+
 /* This is the algorithm that returns solutions for empty coordinates
  *
  * @method tryToSolve
